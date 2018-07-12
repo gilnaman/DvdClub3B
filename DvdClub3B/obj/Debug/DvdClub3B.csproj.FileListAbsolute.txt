@@ -1,0 +1,9 @@
+C:\Users\Gilberto\Documents\SharpDevelop Projects\DvdClub3B\DvdClub3B\bin\Debug\DvdClub3B.exe
+C:\Users\Gilberto\Documents\SharpDevelop Projects\DvdClub3B\DvdClub3B\bin\Debug\DvdClub3B.pdb
+C:\Users\Gilberto\Documents\SharpDevelop Projects\DvdClub3B\DvdClub3B\obj\Debug\DvdClub3B.csprojResolveAssemblyReference.cache
+C:\Users\Gilberto\Documents\SharpDevelop Projects\DvdClub3B\DvdClub3B\obj\Debug\DvdClub3B.MainForm.resources
+C:\Users\Gilberto\Documents\SharpDevelop Projects\DvdClub3B\DvdClub3B\obj\Debug\DvdClub3B.csproj.GenerateResource.Cache
+C:\Users\Gilberto\Documents\SharpDevelop Projects\DvdClub3B\DvdClub3B\obj\Debug\DvdClub3B.exe
+C:\Users\Gilberto\Documents\SharpDevelop Projects\DvdClub3B\DvdClub3B\obj\Debug\DvdClub3B.pdb
+C:\Users\Gilberto\Documents\SharpDevelop Projects\DvdClub3B\DvdClub3B\obj\Debug\DvdClub3B.frmGeneros.resources
+C:\Users\Gilberto\Documents\SharpDevelop Projects\DvdClub3B\DvdClub3B\obj\Debug\DvdClub3B.Views.frmPeliculas.resources
