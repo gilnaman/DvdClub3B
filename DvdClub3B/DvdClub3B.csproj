@@ -70,6 +70,10 @@
     <Compile Include="Views\frmPeliculas.Designer.cs">
       <DependentUpon>frmPeliculas.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\frmPrestamos.cs" />
+    <Compile Include="Views\frmPrestamos.Designer.cs">
+      <DependentUpon>frmPrestamos.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="frmGeneros.resx">
@@ -80,6 +84,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\frmPeliculas.resx">
       <DependentUpon>frmPeliculas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmPrestamos.resx">
+      <DependentUpon>frmPrestamos.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
